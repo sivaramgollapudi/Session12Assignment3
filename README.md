@@ -4,4 +4,4 @@ response.
 
 <h4> Expected Output </h4>
 
-![](https://github.com/sivaramgollapudi/Session12Assignment3/blob/master/Session12Assignment2_Save_Display_SharedPreferences.png)
+![](https://github.com/sivaramgollapudi/Session12Assignment3/blob/master/Session12Assignment3_AlertDialog_YesNoClick.png)
